@@ -12,6 +12,8 @@ public class ClassC {
 		System.out.println("push 6");
 		System.out.println("push 7");
 		System.out.println("push 8");
+		System.out.println("push 11");
+
 
 	}
 }
