@@ -7,5 +7,7 @@ public class ClassC {
 	@Test
 	public void demoTest3() {
 		System.out.println("push 3");
+		System.out.println("push 3");
+
 	}
 }
