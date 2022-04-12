@@ -8,5 +8,6 @@ public class ClassA {
 	public void demoTest() {
 		System.out.println("First Push");
 		System.out.println("First Push2");
+		System.out.println("First Push1");
 	}
 }

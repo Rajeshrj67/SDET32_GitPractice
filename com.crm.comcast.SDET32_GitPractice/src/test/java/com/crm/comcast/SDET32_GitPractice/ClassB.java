@@ -9,5 +9,6 @@ public class ClassB {
 		System.out.println("push 2");
 		System.out.println("check");
 		System.out.println("check1");
+		System.out.println("push 2");
 	}
 }
