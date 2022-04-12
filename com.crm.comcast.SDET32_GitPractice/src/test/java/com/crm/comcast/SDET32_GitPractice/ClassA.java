@@ -7,6 +7,6 @@ public class ClassA {
 	@Test
 	public void demoTest() {
 		System.out.println("First Push");
-		System.out.println("First Push");
+		System.out.println("First Push2");
 	}
 }
