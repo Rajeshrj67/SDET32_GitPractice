@@ -15,5 +15,6 @@ public class ClassD {
 		
 		System.out.println("from class D");
 		System.out.println("from class D1");
+		System.out.println("from class D2");
 	}
 }
