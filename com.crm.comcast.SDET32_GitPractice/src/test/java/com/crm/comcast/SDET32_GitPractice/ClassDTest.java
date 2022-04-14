@@ -2,7 +2,7 @@ package com.crm.comcast.SDET32_GitPractice;
 
 import org.testng.annotations.Test;
 
-public class ClassD {
+public class ClassDTest {
 
 	@Test
 	public void demoTest3() {
